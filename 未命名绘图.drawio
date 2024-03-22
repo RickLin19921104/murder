@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T08:59:00.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wc54wK15MhteSuxQM8PL" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:00:12.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K1aCq2F_qI1LCgh9NvKj" version="24.0.7" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -868,8 +868,11 @@
         <mxCell id="gfxteEe422yxXdmLMmWc-9" value="&lt;span style=&quot;background-color: initial;&quot;&gt;上方取料&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;PCIK:UP:位置&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="615" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="c44NSrpxj2gk1f4F3hu--28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gfxteEe422yxXdmLMmWc-11" target="c44NSrpxj2gk1f4F3hu--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gfxteEe422yxXdmLMmWc-11" value="&lt;span style=&quot;background-color: initial;&quot;&gt;放料&lt;/span&gt;&lt;div&gt;PUT:P:N&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1150" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="1150" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfxteEe422yxXdmLMmWc-12" value="回原點&lt;div&gt;HOME&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="598" y="630" width="80" height="40" as="geometry" />
@@ -955,10 +958,10 @@
           <mxGeometry x="260" y="695" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfxteEe422yxXdmLMmWc-78" value="&lt;span style=&quot;background-color: initial;&quot;&gt;放到上方&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;左側滑軌&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="930" width="80" height="40" as="geometry" />
+          <mxGeometry x="1130" y="1035" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfxteEe422yxXdmLMmWc-79" value="&lt;span style=&quot;background-color: initial;&quot;&gt;放到下方&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;左側滑軌&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="930" width="80" height="40" as="geometry" />
+          <mxGeometry x="1310" y="1035" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gfxteEe422yxXdmLMmWc-92" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gfxteEe422yxXdmLMmWc-85" target="gfxteEe422yxXdmLMmWc-66">
           <mxGeometry relative="1" as="geometry" />
@@ -1013,10 +1016,10 @@
           <mxGeometry x="165" y="825" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkEfvlPmDJikQIhSSYQ1-1" value="&lt;span style=&quot;background-color: initial;&quot;&gt;放到上方&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;右側滑軌&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1201" y="930" width="80" height="40" as="geometry" />
+          <mxGeometry x="1221" y="1035" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gkEfvlPmDJikQIhSSYQ1-6" value="&lt;span style=&quot;background-color: initial;&quot;&gt;放到下方&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;右側滑軌&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1380" y="930" width="80" height="40" as="geometry" />
+          <mxGeometry x="1400" y="1035" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c44NSrpxj2gk1f4F3hu--10" value="P=UP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c44NSrpxj2gk1f4F3hu--4" target="c44NSrpxj2gk1f4F3hu--8">
           <mxGeometry relative="1" as="geometry" />
@@ -1053,22 +1056,21 @@
         <mxCell id="c44NSrpxj2gk1f4F3hu--11" value="下方哪一個&lt;div&gt;燒錄機&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="930" y="780" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c44NSrpxj2gk1f4F3hu--18" value="P=UP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="c44NSrpxj2gk1f4F3hu--20" source="gfxteEe422yxXdmLMmWc-11">
+        <mxCell id="c44NSrpxj2gk1f4F3hu--18" value="P=UP" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="c44NSrpxj2gk1f4F3hu--20" source="c44NSrpxj2gk1f4F3hu--27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1204" y="705" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1190" y="718" />
-              <mxPoint x="1150" y="718" />
+              <mxPoint x="1221" y="800" />
+              <mxPoint x="1170" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="c44NSrpxj2gk1f4F3hu--19" value="P=DOWN" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="c44NSrpxj2gk1f4F3hu--21" source="gfxteEe422yxXdmLMmWc-11">
+        <mxCell id="c44NSrpxj2gk1f4F3hu--19" value="P=DOWN" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="c44NSrpxj2gk1f4F3hu--21" source="c44NSrpxj2gk1f4F3hu--27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1284" y="705" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1190" y="718" />
-              <mxPoint x="1280" y="718" />
-              <mxPoint x="1280" y="785" />
+              <mxPoint x="1221" y="800" />
+              <mxPoint x="1301" y="800" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1079,7 +1081,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c44NSrpxj2gk1f4F3hu--20" value="上方哪一個&lt;div&gt;燒錄機&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="748" width="80" height="80" as="geometry" />
+          <mxGeometry x="1130" y="853" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="c44NSrpxj2gk1f4F3hu--25" value="N=3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c44NSrpxj2gk1f4F3hu--21" target="gfxteEe422yxXdmLMmWc-79">
           <mxGeometry relative="1" as="geometry" />
@@ -1088,7 +1090,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="c44NSrpxj2gk1f4F3hu--21" value="下方哪一個&lt;div&gt;燒錄機&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="745" width="80" height="80" as="geometry" />
+          <mxGeometry x="1261" y="850" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="c44NSrpxj2gk1f4F3hu--27" value="取哪個&lt;div&gt;二次定位&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="675" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
