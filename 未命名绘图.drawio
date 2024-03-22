@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T09:01:35.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FBY-HSLIgjY-k_qdBxSi" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:02:16.792Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="bMO1JLhUlXZwGz7x_EcP" version="24.0.7" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -823,18 +823,19 @@
         <mxCell id="bfM1_uPUvlO_MgZaBksy-38" value="執行成功回傳PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bfM1_uPUvlO_MgZaBksy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bfM1_uPUvlO_MgZaBksy-40">
+        <mxCell id="bfM1_uPUvlO_MgZaBksy-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.563;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bfM1_uPUvlO_MgZaBksy-40" target="2dRKMXA86_dHEaaNfsJT-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="470" />
+              <mxPoint x="560" y="309" />
+              <mxPoint x="560" y="470" />
               <mxPoint x="240" y="470" />
               <mxPoint x="240" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="bfM1_uPUvlO_MgZaBksy-40" value="執行失敗回傳PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="489" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bfM1_uPUvlO_MgZaBksy-66" value="成功&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.58;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2dRKMXA86_dHEaaNfsJT-1" target="bfM1_uPUvlO_MgZaBksy-38">
           <mxGeometry relative="1" as="geometry">
@@ -995,7 +996,7 @@
           <mxGeometry x="165" y="910" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2dRKMXA86_dHEaaNfsJT-1" value="TCP程序" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="250" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2dRKMXA86_dHEaaNfsJT-3" value="上方取料順位&lt;div&gt;變成指定位置&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="750" width="88" height="40" as="geometry" />
