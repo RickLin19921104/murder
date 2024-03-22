@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T07:02:47.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="NwhtujVPtHLxwJNsRGSu" version="24.0.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-03-22T07:12:20.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="y1vkSxZuW2j0Eijq1oYC" version="24.0.7" type="github" pages="5">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1204,14 +1204,8 @@
         <mxCell id="qrkhwmjV4HqjVj-QamBc-65" value="成功" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-67" target="qrkhwmjV4HqjVj-QamBc-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qrkhwmjV4HqjVj-QamBc-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-67" target="qrkhwmjV4HqjVj-QamBc-73">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="270" y="790" />
-              <mxPoint x="270" y="830" />
-              <mxPoint x="388" y="830" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="N21rlDP7yi9Z5AeZZirg-33" value="失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-67" target="qrkhwmjV4HqjVj-QamBc-70">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="qrkhwmjV4HqjVj-QamBc-67" value="吸料是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="175" y="755" width="70" height="70" as="geometry" />
@@ -1219,27 +1213,18 @@
         <mxCell id="qrkhwmjV4HqjVj-QamBc-68" value="&lt;div&gt;成功&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-69" target="qrkhwmjV4HqjVj-QamBc-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="N21rlDP7yi9Z5AeZZirg-35" value="失敗" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-69" target="N21rlDP7yi9Z5AeZZirg-34">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="138" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="qrkhwmjV4HqjVj-QamBc-69" value="吸料是否成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="755" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qrkhwmjV4HqjVj-QamBc-70" value="錯誤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="960" width="75" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="qrkhwmjV4HqjVj-QamBc-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-69" target="qrkhwmjV4HqjVj-QamBc-73">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="388" y="960" as="targetPoint" />
-            <mxPoint x="115" y="790" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="150" y="790" />
-              <mxPoint x="150" y="830" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qrkhwmjV4HqjVj-QamBc-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="qrkhwmjV4HqjVj-QamBc-73" target="qrkhwmjV4HqjVj-QamBc-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="qrkhwmjV4HqjVj-QamBc-73" value="失敗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="855" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="950" width="75" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WUf86F-0Ml8IAfMdcALU-1" value="燒錄機TCP程序" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="250" width="120" height="60" as="geometry" />
@@ -1336,6 +1321,9 @@
         </mxCell>
         <mxCell id="N21rlDP7yi9Z5AeZZirg-28" value="放到上方&lt;div&gt;料盤&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="609" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="N21rlDP7yi9Z5AeZZirg-34" value="錯誤" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="950" width="75" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
