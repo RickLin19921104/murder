@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T09:00:12.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="K1aCq2F_qI1LCgh9NvKj" version="24.0.7" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-22T09:01:35.331Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="FBY-HSLIgjY-k_qdBxSi" version="24.0.7" type="github" pages="6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1022" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1092,7 +1092,7 @@
         <mxCell id="c44NSrpxj2gk1f4F3hu--21" value="下方哪一個&lt;div&gt;燒錄機&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1261" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c44NSrpxj2gk1f4F3hu--27" value="取哪個&lt;div&gt;二次定位&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c44NSrpxj2gk1f4F3hu--27" value="取上下哪個&lt;div&gt;燒錄機&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1181" y="675" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
